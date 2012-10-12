@@ -1097,3 +1097,6 @@ tr:
   label_cross_project_tree: Proje ağacı ile
   label_cross_project_hierarchy: Proje hiyerarşisi ile
   label_cross_project_system: Tüm projeler ile
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

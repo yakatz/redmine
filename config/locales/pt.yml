@@ -1083,3 +1083,6 @@ pt:
   label_cross_project_tree: Com árvore do projecto
   label_cross_project_hierarchy: Com hierarquia do projecto
   label_cross_project_system: Com todos os projectos
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

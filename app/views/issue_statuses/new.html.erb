@@ -2,5 +2,6 @@
 
 <%= labelled_form_for @issue_status do |f| %>
   <%= render :partial => 'form', :locals => {:f => f} %>
+  <p><label><%= check_box_tag 'add_to_all_workflows', 1, true %> <%= l(:label_add_to_all_workflows) %></label></p>
   <%= submit_tag l(:button_create) %>
 <% end %>

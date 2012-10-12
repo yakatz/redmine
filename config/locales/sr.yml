@@ -1079,3 +1079,6 @@ sr:
   label_cross_project_tree: Са стаблом пројекта
   label_cross_project_hierarchy: Са хијерархијом пројекта
   label_cross_project_system: Са свим пројектима
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

@@ -1076,3 +1076,6 @@ bg:
   description_date_from: Въведете начална дата
   description_date_to: Въведете крайна дата
   text_repository_identifier_info: 'Позволени са малки букви (a-z), цифри, тирета и _.<br />Промяна след създаването му не е възможна.'
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

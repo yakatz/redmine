@@ -1091,3 +1091,6 @@ et:
   label_cross_project_tree: "projektipuuga"
   label_cross_project_hierarchy: "projektihierarhiaga"
   label_cross_project_system: "kõigi projektidega"
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

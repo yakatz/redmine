@@ -1080,3 +1080,6 @@ ca:
   label_cross_project_tree: "Amb l'arbre del projecte"
   label_cross_project_hierarchy: "Amb la jerarquia del projecte"
   label_cross_project_system: "Amb tots els projectes"
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

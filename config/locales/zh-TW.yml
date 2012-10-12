@@ -1159,3 +1159,6 @@
   label_cross_project_tree: 與專案樹共用
   label_cross_project_hierarchy: 與專案階層架構共用
   label_cross_project_system: 與全部的專案共用
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows

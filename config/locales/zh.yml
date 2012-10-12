@@ -1082,3 +1082,6 @@ zh:
   label_cross_project_tree: 与项目树共享
   label_cross_project_hierarchy: 与项目继承层次共享
   label_cross_project_system: 与所有项目共享
+  error_unable_add_to_workflows: Unable to add issue status to all workflows. Please
+    add it manually.
+  label_add_to_all_workflows: Add to all workflows
